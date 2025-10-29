@@ -54,7 +54,7 @@ const FlavorTitle = () => {
         }}
         className="flavor-text-scroll"
       >
-        <div className="bg-mid-brown pb-5 2xl:pt-0 pt-32 2xl:px-5 px-5">
+        <div className="bg-mid-brown pb-5 2xl:pt-0 pt-3 2xl:px-5 px-5">
             <h2 className='text-milk'>freaking</h2>
         </div>
       </div>
